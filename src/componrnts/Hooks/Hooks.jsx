@@ -7,7 +7,7 @@ import Parent from './ReactMemo/Parent'
 const Hooks = () => {
   return (
     <div> 
-        <h1 className='text-center mb-2 mt-4 text-primary'>HOOKS</h1><hr />
+        <h1 className='text-center mb-2 mt-4 text-primary'>React Popular HOOKS</h1><hr />
           <ReducerExapmle1/>
          <Comp1/>
          <UseMemo/>
